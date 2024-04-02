@@ -4,9 +4,6 @@ CFLAGS = -Wall -DNDEBUG
 all: $(OBJS)
 	cc $(CFLAGS) -o vm $(OBJS)
 
-test:
-	./validate.sh codes.txt
-
 clean:
 	rm *.o vm
 
