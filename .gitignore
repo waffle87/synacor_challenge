@@ -1,3 +1,4 @@
 vm
 *.o
 .gdb*
+tools/a.out
