@@ -1,4 +1,4 @@
-// synacor challenge (@waffle87)
+// synacor challenge (jack@pngu.org)
 #include "memory.h"
 #include "stack.h"
 #include "util.h"

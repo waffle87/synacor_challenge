@@ -1,4 +1,4 @@
-// synacor challenge (@waffle87)
+// synacor challenge (jack@pngu.org)
 #include "stack.h"
 
 void stack_init(Stack *s) {
